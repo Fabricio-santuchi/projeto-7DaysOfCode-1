@@ -1,0 +1,22 @@
+@import url(style/header.css);
+@import url(style/cabeçalho.css);
+@import url(style/metricas.css);
+@import url(style/vagas.css);
+@import url(style/depoimentos.css);
+@import url(style/formulario.css);
+
+:root{
+    --font-principal:'Inter', sans-serif;
+    --cor-branca: #FFFFFF;
+    --cor-vermelha: #8E2424;
+    --cor-azulada: #101828;
+    --cor-principal: #667085;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    font-family: var(--font-principal);
+    font-weight: 500;
+    background-color: var(--cor-branca);
+}
