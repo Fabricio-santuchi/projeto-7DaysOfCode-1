@@ -4,10 +4,12 @@
 
 .depoimentos__container{
     padding: 4em;
+    margin: 0 5em;
     display: flex;
     text-align: center;
     flex-direction: column;
     gap: 2em;
+    background: rgba(195, 25, 25, 0.03);
 }
 
 .depoimentos__optimustech{
@@ -22,7 +24,6 @@
     color: var(--cor-vermelha);
 }
 .depoimentos__titulo-secundario{
-    padding: 0 5vw;
     font-size: 36px;
     line-height: 44px;
     color: var(--cor-azulada);
