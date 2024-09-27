@@ -5,19 +5,19 @@
 @import url(style/depoimentos.css);
 @import url(style/formulario.css);
 
-:root{
-    --font-principal:'Inter', sans-serif;
-    --cor-branca: #FFFFFF;
-    --cor-vermelha: #8E2424;
-    --cor-azulada: #101828;
-    --cor-principal: #667085;
-    --Gray-50: #F9FAFB;
+:root {
+  --font-principal: "Inter", sans-serif;
+  --cor-branca: #ffffff;
+  --cor-vermelha: #8e2424;
+  --cor-azulada: #101828;
+  --cor-principal: #667085;
+  --Gray-50: #f9fafb;
 }
 
-body{
-    width: 100%;
-    height: 100vh;
-    font-family: var(--font-principal);
-    font-weight: 500;
-    background-color: var(--cor-branca);
+body {
+  width: 100%;
+  height: 100vh;
+  font-family: var(--font-principal);
+  font-weight: 500;
+  background-color: var(--cor-branca);
 }
